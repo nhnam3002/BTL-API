@@ -2,6 +2,7 @@
 
 namespace DataAccessLayer
 {
+    //code Nguyen Hoàng Nam
     public class KhachRepository:IKhachRepository
     {
         private IDatabaseHelper _dbHelper;
